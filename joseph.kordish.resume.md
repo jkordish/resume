@@ -95,16 +95,16 @@ generate consul events from logs
 
 [jkordish][github] ![gh][]
 
-[jkordish][linkedin] ![lnk][]
+[in/jkordish][linkedin] ![lnk][]
 
-[jkordish][twitter] ![twit][]
+[@jkordish][twitter] ![twit][]
 
 ---
 [avatar]: https://pbs.twimg.com/profile_images/830609016011243520/mbLRNS4F.jpg
 [homepage]: https://unicornclouds.com
-[twitter]: https://twitter.com/http://twitter.com/jkordish
+[twitter]: https://twitter.com/jkordish
 [twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
-[github]: https://github.com/http://github.com/jkordish
+[github]: https://github.com/jkordish
 [gh]: https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-20.png
-[linkedin]:https://linkedin.com//http://linkedin.com/in/jkordish
-[lnk]:https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-20.png
+[linkedin]: https://linkedin.com/in/jkordish
+[lnk]: https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-20.png
