@@ -1,77 +1,73 @@
-| Joseph Mark Kordish II | [joe@unicornclouds.com](mailto:joe@unicornclouds.com) | github: [jkordish](https://www.github.com/jkordish)|
-|:---|---:|---:|
-| 26210 Presidio Mesa Boerne TX, 78015 | site: [unicornclouds.com](unicornclouds.com)| LinkedIn: [in/jkordish](https://linkedin.com/in/jkordish)|
-| voice: (512) 765-5962 | Twitter: [@jkordish](https://www.twitter.com/jkordish) | Freenode: jkordish |
 
-DevOps, Technologist, Open Source Evangelist, Virtualization/Cloud, Recovering InfoSec professional
+# ![avatar][]
+## Joseph Kordish <small>San Antonio, TX</small>
 
-**Summary**
-* Ability to quickly understand, internalize and disseminate new concepts/technologies.
-* Resourceful and self-sufficient, ability to work independently, finding creative solutions and engaging resources as needed to complete implementations.
-* Ability to manage multiple, concurrent tasks.
-* Positive, can-and-will-do, team player attitude
-* Experience scripting in NodeJS, Python, PowerShell and Unix shell
+---
+** DevOps, Technologist, Open Source Evangelist, Virtualization/Cloud, Recovering InfoSec Pro**
 
-**Experience**
+> A builder and a problem solver. Automater of all the things. Systems generalist that is more concerned with solving problems than evangelizing. Comfortable picking up new technologies and understanding nuances.
 
-**Operations Engineer at FireEye (Formerly Mandiant)**
 
-_July 2013 – Present_
+---
+## Experience
+#### Cloud Operations Engineer at FireEye &emsp;<small>*July 2013  - current*</small>
 
-Primary job responsibility was with the seamless automation and management of the system architecture
+`ansible`, `teamcity`, `jenkins`, `terraform`, `packer`, `consul`, `aws`
+> Concerned with creating systems that are stateless, immutable and disposable. Application deployments that exhibit characteristics of self-discovery, self-configuration and self-healing.
+> * devised/deployed/manage the continuous integration and application deployment pipeline (Ansible, Terraform, Packer and Consul)
+> * hands on experience in multi-tiered Amazon Web Services (AWS) infrastructure services and technologies
+> * architecture of the Analytics Big Data platform for ETL processing. (DataPipeline/EMR/Lambda)
+> * incorporated serverless practices through multiple implementations of the AWS Lambda service
+> * worked with container based technologies such as Docker and its clustering counterpart Swarm.
+> * develop operational documentation, build documents, run/play books related to operational support of the product and supporting infrastructure
 
-* built out infrastructure and application deployment pipeline
- * Ansible/Terraform/Packer/Consul
-* built self-sustaining continuous integration pipeline
- * TeamCity and Git(-Flow)
- * supporting various languages: Java, C++, Scala, NodeJS, GO, Python, and Ruby
-* hands on experience in multi-tiered AWS infrastructure
-  * wide breadth of operational knowledge with a multitude of AWS services
-* serve as Tier 2-3 support for a diverse set of technologies
-  * cloud infrastructure platforms, machine learning, human-computer interaction, big data technology
-* developed operational documentation, build documents, run books related to operational support of the product and supporting infrastructure
+---
+#### Senior Technologist at Trans-Tel Central &emsp;<small>*April 2012 - July 2013*</small>
 
-**Senior Technologist at Trans-Tel Central**
+`openstack`, `nessus`, `pci-dss`, `asv`
+> * Rolled out OpenStack based solution in support of a multi-tenant operational network.
+> * Managed entire infrastructure including networking, storage, virtualization, etc.
+> * Led efforts in standing up PCI assessments business – obtained PCI-ASV certification
+>
 
-_April 2012 – July 2013_
+---
+#### Technology Consultant III at Hewlett-Packard &emsp;<small>*September 2010 - March 2012*</small>
 
-* Rolled out OpenStack based solution in support of a multi-tenant operational network
-* Managed entire infrastructure including networking, storage, virtualization, etc
-* Led efforts in standing up PCI assessments business Ã¢ÂÂ obtained PCI-ASV certification
+`vmware`, `esx`
+> * Senior Virtualization Engineer for the US Army Medical Information Technology Center (USAMITC).
+> * Managed over 1K virtual machines in a multi-tenancy high security environment.
+> * Integral to the successful completion of the virtualization infrastructure refresh.
+> * Focused on system automation through creation of reusable PowerCLI scripts
+>
 
-**Technology Consultant III at Hewlett-Packard**
+---
+#### Computer Security Engineer at TASC &emsp;<small>*June 2009 - June 2009*</small>
 
-_September 2010 - March 2012_
-* Senior Virtualization Engineer for the US Army Medical Information Technology Center (USAMITC)
-* Managed over 1K virtual machines in a multi-tenancy high security environment
-* Integral to the successful completion of the virtualization infrastructure refresh
-* Focused on system automation through creation of reusable PowerCLI scripts
+`netapp`, `cisco`, `vmware`, `esx`
+> * Design and integrated VMware virtualization suite within the Air Force (CITS 35).
+> * Implemented the first Air Force complete virtualization hardware/software suite.
+> * Rolled out suite to commands from ground up to include: rack/stack of hardware and network equipment, and fully deployed VMware software suite.
 
-**Computer Security Engineer at TASC**
+---
+#### Network Security Analyst at MacAulay Brown &emsp; <small>*November 2006 - September 2007*</small>
+> Defend the Air Force Global Information Grid against malicious threats through real-time network monitoring and intrusion detection as part of the Air Force Network Security Division.
 
-_June 2009 - September 2010_
+---
+#### Information Protection Technician at USAF &emsp; <small>*October 2000 - October 2006*</small>
+> Technical lead, implemented Defense in Depth through boundary protection, vulnerability assessment, and intrusion detection for the largest Communications Squadron in the Air Force. (Yokota AFB) Led and managed team of eight in securing the Air Force’s largest communications squadron.
 
-Conduct host/network vulnerability assessments (penetration testing) as part of the Air Force 92nd Aggressors Squadron. Assess security posture and document remediation for Air Force bases and tenant units.
+---
+## Education
+#### Master of Science in Information Assurance and Security  Field Of Study Network Defense Specialization  &emsp; <small>*2015 - 2016*</small>
+> Summa Cum Laude
 
-**Systems Engineer at Northrop-Grumman: TASC**
+---
+#### Bachelor of Science (BS), Psychology &emsp; <small>*2012 - 2015*</small>
+> Summa Cum Laude
 
-_September 2007 - June 2009_
 
-Design and integrated VMware virtualization suite within the Air Force (CITS 35). Implemented the first Air Force complete virtualization hardware/software suite. Rolled out suite to commands from ground up to include: rack/stack of hardware and network equipment, and fully deployed VMware software suite.
-
-**Network Security Analyst at MacAulay Brown**
-
-_November 2006 - September 2007_
-
-Defend the Air Force Global Information Grid against malicious threats through real-time network monitoring and intrusion detection as part of the Air Force Network Security Division.
-
-**Information Protection Technician at USAF**
-
-_October 2000 - October 2006_
-
-Technical lead, implemented Defense in Depth through boundary protection, vulnerability assessment, and intrusion detection for the largest Communications Squadron in the Air Force. (Yokota AFB) Led and managed team of eight in securing the Air Force's largest communications squadron.
-
-**Certifications**
+---
+## Certifications
 * CISSP - ISC2 License 112897
 * Network+ - CompTIA License COMP10617900
 * Security+ - CompTIA License COMP001004759650
@@ -82,14 +78,33 @@ Technical lead, implemented Defense in Depth through boundary protection, vulner
 * VMware Certified Professional 3/4/5 - VMware License 24125
 * Linux Professional Institute Certification (LPIC1) - License x67heee8df (EXPIRED)
 * Cisco Certified Network Associate (CCNA) - License CSCO10432786 2006 (EXPIRED)
+---
+## Open Source
+#### [Feretto](https://github.com/jkordish/feretto)
+generate consul events from logs
 
-**Education**
-* _Capella University_ Bachelor of Science (BS), Psychology
-  * Targeted Graduation October 2015 (4.0 GPA)
-  * President List
+---
+#### [Shouji](https://github.com/jkordish/shouji)
+ rust interface for consul
 
-**Projects**
-* FireEye Threat Analytics Platform
-* FireEye Threat Intelligence Center
-* FireEye Host Investigation Platform
+---
+### contact
+[joe@unicornclouds.com](mailto:joe@unicornclouds.com)
 
+[unicornclouds][homepage]
+
+[jkordish][github] ![gh][]
+
+[jkordish][linkedin] ![lnk][]
+
+[jkordish][twitter] ![twit][]
+
+---
+[avatar]: https://pbs.twimg.com/profile_images/830609016011243520/mbLRNS4F.jpg
+[homepage]: https://unicornclouds.com
+[twitter]: https://twitter.com/http://twitter.com/jkordish
+[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
+[github]: https://github.com/http://github.com/jkordish
+[gh]: https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-20.png
+[linkedin]:https://linkedin.com//http://linkedin.com/in/jkordish
+[lnk]:https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-20.png
