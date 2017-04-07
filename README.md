@@ -3,7 +3,7 @@
 ## Joseph Kordish <small>San Antonio, TX</small>
 
 ---
-** DevOps, Technologist, Open Source Evangelist, Virtualization/Cloud, Recovering InfoSec Pro**
+**DevOps, Technologist, Open Source Evangelist, Virtualization/Cloud, Recovering InfoSec Pro**
 
 > A builder and a problem solver. Automater of all the things. Systems generalist that is more concerned with solving problems than evangelizing. Comfortable picking up new technologies and understanding nuances.
 
