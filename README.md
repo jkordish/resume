@@ -58,7 +58,7 @@
 
 ---
 ## Education
-#### Master of Science in Information Assurance and Security  Field Of Study Network Defense Specialization  &emsp; <small>*2015 - 2016*</small>
+#### Master of Science in Information Assurance and Security  Field Of Study Network Defense Specialization &emsp; <small>*2015 - 2016*</small>
 > Summa Cum Laude
 
 ---
