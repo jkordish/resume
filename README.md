@@ -101,7 +101,7 @@ generate consul events from logs
 
 ---
 [avatar]: https://pbs.twimg.com/profile_images/830609016011243520/mbLRNS4F.jpg
-[homepage]: https://unicornclouds.com
+[homepage]: http://unicornclouds.com
 [twitter]: https://twitter.com/jkordish
 [twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
 [github]: https://github.com/jkordish
