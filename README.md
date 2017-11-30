@@ -5,7 +5,7 @@
 ---
 **DevOps, Technologist, Open Source Evangelist, Virtualization/Cloud, Recovering InfoSec Pro**
 
-> A builder and a problem solver. Automater of all the things. Systems generalist that is more concerned with solving problems than evangelizing. Comfortable picking up new technologies and understanding nuances.
+> A builder and a problem solver. Automater of all the things. Systems generalist that is more concerned with solving problems than evangelizing specific technologies. Comfortable picking up new technologies and understanding nuances. Ability to quickly understand, internalize and disseminate new concepts/technologies. Resourceful and self-sufficient, ability to work independently, finding creative solutions and engaging resources as needed to complete implementations. Ability to manage multiple, concurrent tasks. Positive, can-and-will-do, team player attitude Experience scripting in NodeJS, Python, PowerShell, Unix shell and dive into systems programming languages in primary Rust.
 
 
 ---
@@ -80,12 +80,18 @@
 * Cisco Certified Network Associate (CCNA) - License CSCO10432786 2006 (EXPIRED)
 ---
 ## Open Source
-#### [Feretto](https://github.com/jkordish/feretto)
-generate consul events from logs
-
 ---
+#### [s3post](https://github.com/jkordish/s3post.rs)
+ **rust** Take logs from stdin then compress and send to S3.
+ 
+#### [copy-ami-tags](https://github.com/jkordish/copy-ami-tags.rs)
+**rust** Take [Packer](https://www.packer.io) generated manifest.json and copy the AMI tags to other accounts
+
+#### [feretto](https://github.com/jkordish/feretto.rs)
+**rust** generate aws sns notifications via strings found in log sources
+
 #### [Shouji](https://github.com/jkordish/shouji)
- rust interface for consul
+ **rust** rust interface for consul
 
 ---
 ### contact
