@@ -10,7 +10,7 @@
 
 ---
 ## Experience
-#### Cloud Operations Engineer at FireEye &emsp;<small>*July 2013  - current*</small>
+#### Cloud Operations Engineer at FireEye <small>*July 2013  - current*</small>
 
 `ansible`, `teamcity`, `jenkins`, `terraform`, `packer`, `consul`, `aws`
 > Concerned with creating systems that are stateless, immutable and disposable. Application deployments that exhibit characteristics of self-discovery, self-configuration and self-healing.
@@ -22,7 +22,7 @@
 > * develop operational documentation, build documents, run/play books related to operational support of the product and supporting infrastructure
 
 ---
-#### Senior Technologist at Trans-Tel Central &emsp;<small>*April 2012 - July 2013*</small>
+#### Senior Technologist at Trans-Tel Central <small>*April 2012 - July 2013*</small>
 
 `openstack`, `nessus`, `pci-dss`, `asv`
 > * Rolled out OpenStack based solution in support of a multi-tenant operational network.
@@ -31,7 +31,7 @@
 >
 
 ---
-#### Technology Consultant III at Hewlett-Packard &emsp;<small>*September 2010 - March 2012*</small>
+#### Technology Consultant III at Hewlett-Packard <small>*September 2010 - March 2012*</small>
 
 `vmware`, `esx`
 > * Senior Virtualization Engineer for the US Army Medical Information Technology Center (USAMITC).
@@ -41,7 +41,7 @@
 >
 
 ---
-#### Computer Security Engineer at TASC &emsp;<small>*June 2009 - June 2009*</small>
+#### Computer Security Engineer at TASC <small>*June 2009 - June 2009*</small>
 
 `netapp`, `cisco`, `vmware`, `esx`
 > * Design and integrated VMware virtualization suite within the Air Force (CITS 35).
@@ -49,21 +49,21 @@
 > * Rolled out suite to commands from ground up to include: rack/stack of hardware and network equipment, and fully deployed VMware software suite.
 
 ---
-#### Network Security Analyst at MacAulay Brown &emsp; <small>*November 2006 - September 2007*</small>
+#### Network Security Analyst at MacAulay Brown <small>*November 2006 - September 2007*</small>
 > Defend the Air Force Global Information Grid against malicious threats through real-time network monitoring and intrusion detection as part of the Air Force Network Security Division.
 
 ---
-#### Information Protection Technician at USAF &emsp; <small>*October 2000 - October 2006*</small>
+#### Information Protection Technician at USAF <small>*October 2000 - October 2006*</small>
 > Technical lead, implemented Defense in Depth through boundary protection, vulnerability assessment, and intrusion detection for the largest Communications Squadron in the Air Force. (Yokota AFB) Led and managed team of eight in securing the Air Force’s largest communications squadron.
 
 ---
 ## Education
-#### Master of Science in Information Assurance and Security Field Of Study Network Defense Specialization &emsp; <small>*2015 - 2016*</small>
+#### Master of Science in Information Assurance and Security Field Of Study Network Defense Specialization <small>*2015 - 2016*</small>
 > Summa Cum Laude
 > [Capella University](http://capella.edu/)
 
 ---
-#### Bachelor of Science (BS), Psychology &emsp; <small>*2012 - 2015*</small>
+#### Bachelor of Science (BS), Psychology <small>*2012 - 2015*</small>
 > Summa Cum Laude
 > [Capella University](http://capella.edu/)
 
@@ -82,16 +82,16 @@
 ---
 ## Open Source
 #### [s3post](https://github.com/jkordish/s3post.rs)
-Take logs from stdin then compress and send to S3 <small>**rust**</small>
+Take logs from stdin then compress and send to S3 <sub>**rust**</sub>
  
 #### [copy-ami-tags](https://github.com/jkordish/copy-ami-tags.rs)
-Take [Packer](https://www.packer.io) generated manifest.json and copy the AMI tags to other accounts <small>**rust**</small>
+Take [Packer](https://www.packer.io) generated manifest.json and copy the AMI tags to other accounts <sub>**rust**</sub>
 
 #### [feretto](https://github.com/jkordish/feretto.rs)
-generate aws sns notifications via strings found in log sources <small>**rust**</small>
+generate aws sns notifications via strings found in log sources <sub>**rust**</sub>
 
 #### [Shouji](https://github.com/jkordish/shouji)
-interface for consul <small>**rust**</small>
+interface for consul <sub>**rust**</sub>
 
 ---
 ### contact
