@@ -58,13 +58,14 @@
 
 ---
 ## Education
-#### Master of Science in Information Assurance and Security  Field Of Study Network Defense Specialization &emsp; <small>*2015 - 2016*</small>
+#### Master of Science in Information Assurance and Security Field Of Study Network Defense Specialization &emsp; <small>*2015 - 2016*</small>
 > Summa Cum Laude
+> [Capella University](http://capella.edu/)
 
 ---
 #### Bachelor of Science (BS), Psychology &emsp; <small>*2012 - 2015*</small>
 > Summa Cum Laude
-
+> [Capella University](http://capella.edu/)
 
 ---
 ## Certifications
@@ -80,18 +81,17 @@
 * Cisco Certified Network Associate (CCNA) - License CSCO10432786 2006 (EXPIRED)
 ---
 ## Open Source
----
 #### [s3post](https://github.com/jkordish/s3post.rs)
- **rust** Take logs from stdin then compress and send to S3.
+Take logs from stdin then compress and send to S3 <small>**rust**</small>
  
 #### [copy-ami-tags](https://github.com/jkordish/copy-ami-tags.rs)
-**rust** Take [Packer](https://www.packer.io) generated manifest.json and copy the AMI tags to other accounts
+Take [Packer](https://www.packer.io) generated manifest.json and copy the AMI tags to other accounts <small>**rust**</small>
 
 #### [feretto](https://github.com/jkordish/feretto.rs)
-**rust** generate aws sns notifications via strings found in log sources
+generate aws sns notifications via strings found in log sources <small>**rust**</small>
 
 #### [Shouji](https://github.com/jkordish/shouji)
- **rust** rust interface for consul
+interface for consul <small>**rust**</small>
 
 ---
 ### contact
