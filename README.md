@@ -105,7 +105,7 @@ Multiple roles depending on compact contract.
 
 ## Volunteering
 
-* Rust Release Team Volunteer  <small>*January 2018 ~ January 2020*</small>
+* Rust Language: Release Team Volunteer  <small>*January 2018 ~ January 2020*</small>
 
 ___
 
