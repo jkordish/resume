@@ -9,7 +9,7 @@
 
 ---
 ## Experience
-####  Principal, Site Reliability Engineer at Trellix <small>*January 2012  - current*</small>
+####  Principal, Site Reliability Engineer at Trellix <small>*January 2022  - current*</small>
 
 `ansible`, `teamcity`, `jenkins`, `rundeck`,`terraform`, `packer`, `consul`, `aws`
 > * Make things go pew pew in the cloud
@@ -52,13 +52,21 @@
 > * Focused on system automation through creation of reusable PowerCLI scripts
 
 ---
-#### Computer Security Engineer at TASC Inc. <small>*June 2009 - June 2009*</small>
+#### Computer Security Engineer at TASC Inc. <small>*September 2007 - September 2010*</small>
+
+Multiple roles depending on compact contract.
 
 `netapp`, `cisco`, `vmware`, `esx`
 > * Design and integrated VMware virtualization suite within the Air Force (CITS 35).
 > * Implemented the first Air Force complete virtualization hardware/software suite.
 > * Rolled out suite to commands from ground up to include: rack/stack of hardware and network equipment, and fully deployed VMware software suite.
-
+> * Conduct network vulnerability assessments as part of the AirForce 92nd Aggressors Squadron.
+> * Enumerate/identify critical security vulnerabilities plaguing the Air Force Enterprise Network
+> * Provided technical solutions for mitigation of vulnerabilities
+> * Review system designs and provide guidance for improvement
+> * Design/test/integrate next gen assessment platform utilizing virtualization
+> * Evaluate current procedures and processes; identify problem areas and provide technical improvements
+>
 ---
 #### Network Security Analyst at MacAulay Brown <small>*November 2006 - September 2007*</small>
 > * Defend the Air Force Global Information Grid against malicious threats through real-time network monitoring and intrusion detection as part of the Air Force Network Security Division. (formerly AFCERT)
