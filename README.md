@@ -156,19 +156,12 @@ interface for consul <sub>**rust**</sub>
 
 [joe@unicornclouds.com](mailto:joe@unicornclouds.com)
 
-[unicornclouds][homepage]
-
 [jkordish][github] ![gh][]
 
 [in/jkordish][linkedin] ![lnk][]
 
-[@jkordish][twitter] ![twit][]
-
 ---
 [avatar]: https://avatars.githubusercontent.com/u/30608?s=400&u=9981702b118cd607737f561e666b64b6ed9475c8&v=4
-[homepage]: http://unicornclouds.com
-[twitter]: https://twitter.com/jkordish
-[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
 [github]: https://github.com/jkordish
 [gh]: https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-20.png
 [linkedin]: https://linkedin.com/in/jkordish
