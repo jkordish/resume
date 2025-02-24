@@ -1,158 +1,157 @@
-
 # ![avatar][]
-
-## Joseph Kordish <small>San Antonio, TX</small>
-
----
-**Technologist, Open Source Evangelist, Software Generalist, Recovering InfoSec Pro**
-
-> A builder and a problem solver. Automater of all the things. Systems generalist that is more concerned with solving problems than evangelizing specific technologies. Comfortable picking up new technologies and understanding nuances. Ability to quickly understand, internalize and disseminate new concepts/technologies. Resourceful and self-sufficient, ability to work independently, finding creative solutions and engaging resources as needed to complete implementations. Ability to manage multiple, concurrent tasks. Positive, can-and-will-do, team player attitude Experience scripting/programming in languages: PowerShell, Unix shell, NodeJS, Python, GO and Rust (preferred)
+# **Joseph Kordish**  
+<small>San Antonio, TX | ![email][] [joe@unicornclouds.com](mailto:joe@unicornclouds.com) | [jkordish][github] ![gh][] | [in/jkordish][linkedin] ![lnk][]</small>
 
 ---
 
-## Experience
+## **Summary**
 
-#### Principal, Site Reliability Engineer at Trellix <small>*January 2022  - current*</small>
-
-`ansible`, `teamcity`, `jenkins`, `rundeck`,`terraform`, `packer`, `consul`, `aws`, `kubernetes`
-> * Led technical and operations for SRE team. Guided and mentored junior SRE members.
-> * Concerned with creating systems that are stateless, immutable and disposable. Application deployments that exhibit characteristics of self-discovery, self-configuration and self-healing.
-> * hands on experience in multi-tiered Amazon Web Services (AWS) infrastructure services and technologies
-> * Led the redesigned, simplified, implented our AWS EKS deployment system.
+Seasoned Site Reliability Engineer (SRE) and **technology generalist** with extensive experience designing and automating large-scale systems. Skilled in **DevOps, cloud infrastructure, and security**; adept at rapidly learning new technologies to solve complex problems. **AWS-focused** with expertise in designing immutable, self-healing systems using container orchestration platforms (Kubernetes/EKS). A proven track record leading technical teams through mergers/acquisitions, ensuring continuity and innovation. Known for resourcefulness, strong mentoring, and a collaborative, can-do attitude.
 
 ---
 
-#### Principal, Site Reliability Engineer at FireEye <small>*January 2021 - December 2021*</small>
+## **Core Skills & Technologies**
 
-<small>(**FireEye Products sold off and merged with McAfee becoming Trellix**)</small>
----
-
-#### Senior Site Reliability Engineer at FireEye <small>*January 2018 - January 2021*</small>
-
-> * Incorporated serverless practices through multiple implementations of the AWS Lambda service
-> * Migrated legacy systems to AWS EKS
-> * Managed multiple AWS EKS clusters
-
----
-
-#### Site Reliability Engineer at FireEye <small>*January 2014 - January 2018*</small>
-
-> * Redesigned, implemented, and oversaw the continuous integration and application deployment pipeline utilizing Ansible, Terraform, Packer, and Consul.
-> * Architecture of the Big Data Analytics Platform for ETL Processing: DataPipeline, EMR, and Lambda.
-> * develop operational documentation, build documents, run/play books related to operational support of the product and supporting infrastructure
+- **Cloud & Orchestration:** AWS (EKS, Lambda, EC2, S3, etc.), OpenStack  
+- **Automation & Configuration Management:** Ansible, Terraform, Packer, Rundeck, Jenkins, TeamCity  
+- **Containerization:** Docker, Kubernetes (EKS), Helm, Consul  
+- **Languages:** PowerShell, Shell scripting, Node.js, Python, Go, Rust  
+- **CI/CD & Pipelines:** Jenkins, TeamCity, GitLab CI, AWS CodePipeline  
+- **Security & Compliance:** CISSP, PCI-DSS, Vulnerability Assessments, Intrusion Detection  
+- **Other:** VMware ESX, Linux Administration (RHCSA), Networking (Cisco/CCNA), NetApp
 
 ---
 
-#### Site Reliability Engineer at Mandiant <small>*July 2013 - December 2013*</small>
+## **Experience**
 
-> * Developed and implemented entire build system using TeamCity
-> * Transformed cumbersome deployment scripts from Bash shell to Ansible for enhanced efficiency.
-> * incorporated serverless practices through multiple implementations of the AWS Lambda service
+### **Principal Site Reliability Engineer**  
+**Trellix** (formerly Mandiant → FireEye → McAfee)  
+<small>January 2022 – Present</small>
 
-<small>(**acquired by FireEye**)</small>
----
+- Led technical direction and day-to-day operations for the SRE team, mentoring junior members.  
+- Designed and implemented **AWS EKS** deployment systems to ensure high availability, scalability, and reduced operational overhead.  
+- Pioneered stateless, **immutable infrastructure** approaches that improved reliability and recovery.  
+- Drove automation with **Terraform**, **Packer**, and **Consul**, emphasizing self-discovery and self-healing at scale.
 
-#### Senior Technologist at Trans-Tel Central <small>*April 2012 - July 2013*</small>
+#### Principal Site Reliability Engineer  
+**FireEye**  
+<small>January 2021 – December 2021</small>  
+<small>*(FireEye Products sold off and merged with McAfee, ultimately forming Trellix.)*</small>
 
-`openstack`, `nessus`, `pci-dss`, `asv`
->
-> * Rolled out OpenStack based solution in support of a multi-tenant operational network.
-> * Managed entire infrastructure including networking, storage, virtualization, etc.
-> * Led efforts in standing up PCI assessments business and obtained PCI-ASV certification
+- Oversaw SRE best practices for production workloads in **AWS**, including container orchestration, CI/CD automation, and data pipelines.  
+- Streamlined multi-tier AWS infrastructure, focusing on operational efficiency and incident mitigation.
 
----
+#### Senior Site Reliability Engineer  
+**FireEye**  
+<small>January 2018 – January 2021</small>
 
-#### Technology Consultant III at Hewlett-Packard <small>*September 2010 - March 2012*</small>
+- Championed serverless architecture with multiple **AWS Lambda** implementations, reducing operational overhead.  
+- Migrated on-prem and legacy systems to **AWS EKS**, cutting deployment times significantly.  
+- Managed multiple AWS EKS clusters, ensuring robust security and compliance for mission-critical services.
 
-`vmware`, `esx`, `powershell`
->
-> * Senior Virtualization Engineer for the US Army Medical Information Technology Center (USAMITC).
-> * Managed over 1K virtual machines in a multi-tenancy high security environment.
-> * Integral to the successful completion of the virtualization infrastructure refresh.
-> * Focused on system automation through creation of reusable PowerCLI scripts
+#### Site Reliability Engineer  
+**FireEye**  
+<small>January 2014 – January 2018</small>
 
----
+- Redesigned and supervised the **CI/CD pipeline** using Ansible, Terraform, Packer, and Consul.  
+- Implemented a Big Data Analytics platform (EMR, AWS Data Pipeline, Lambda) to process large-scale ETL workloads.  
+- Created operational documentation, runbooks, and standard operating procedures for consistent deployments.
 
-#### Computer Security Engineer at TASC Inc. <small>*September 2007 - September 2010*</small>
+#### Site Reliability Engineer  
+**Mandiant**  
+<small>July 2013 – December 2013</small>  
+<small>*(Acquired by FireEye)*</small>
 
-Multiple roles depending on compact contract.
-
-`netapp`, `cisco`, `vmware`, `esx`
->
-> * Design and integrated VMware virtualization suite within the Air Force (CITS 35).
-> * Implemented the first Air Force complete virtualization hardware/software suite.
-> * Rolled out suite to commands from ground up to include: rack/stack of hardware and network equipment, and fully deployed VMware software suite.
-> * Conduct network vulnerability assessments as part of the AirForce 92nd Aggressors Squadron.
-> * Enumerate/identify critical security vulnerabilities plaguing the Air Force Enterprise Network
-> * Provided technical solutions for mitigation of vulnerabilities
-> * Review system designs and provide guidance for improvement
-> * Design/test/integrate next gen assessment platform utilizing virtualization
-> * Evaluate current procedures and processes; identify problem areas and provide technical improvements
->
----
-
-#### Network Security Analyst at MacAulay Brown <small>*November 2006 - September 2007*</small>
->
-> * Defend the Air Force Global Information Grid against malicious threats through real-time network monitoring and intrusion detection as part of the Air Force Network Security Division. (formerly AFCERT)
+- Built and optimized a **TeamCity**-based build system, drastically reducing release cycles.  
+- Converted complex Bash deployment scripts into **Ansible** playbooks, improving reliability and reducing errors.  
+- Deployed AWS Lambda functions to offload and simplify various operational tasks.
 
 ---
 
-#### Information Protection Technician at USAF <small>*October 2000 - October 2006*</small>
->
-> * Technical lead, implemented Defense in Depth through boundary protection, vulnerability assessment, and intrusion detection for the largest Communications Squadron in the Air Force. (Yokota AFB)
-> * Led and managed team of eight in securing the Air Force's largest communications squadron.
-> * Low level network debugging with tools such as tcpdump
+### **Senior Technologist**  
+**Trans-Tel Central**  
+<small>April 2012 – July 2013</small>
+
+- Rolled out an **OpenStack**-based multi-tenant operational network, managing storage, virtualization, and networking end to end.  
+- Spearheaded **PCI** assessments business, obtaining **PCI-ASV** certification and ensuring compliance for diverse clients.
 
 ---
 
-## Education
+### **Technology Consultant III**  
+**Hewlett-Packard**  
+<small>September 2010 – March 2012</small>
 
-#### Master of Science in Information Assurance and Security Field Of Study Network Defense Specialization <small>*2015 - 2016*</small>
->
-> Summa Cum Laude
-> [Capella University](http://capella.edu/)
-
----
-
-#### Bachelor of Science (BS), Psychology <small>*2012 - 2015*</small>
->
-> Summa Cum Laude
-> [Capella University](http://capella.edu/)
+- Served as **Senior Virtualization Engineer** for the US Army Medical IT Center (USAMITC), overseeing 1,000+ virtual machines.  
+- Automated routine VM tasks using **PowerCLI** scripts, boosting admin productivity and lowering incidents.  
+- Assisted in a large-scale virtualization infrastructure refresh, focusing on performance tuning and security hardening.
 
 ---
 
-## Certifications
+### **Computer Security Engineer**  
+**TASC Inc.**  
+<small>September 2007 – September 2010</small>
 
-* CISSP - ISC2 License 112897
-* Network+ - CompTIA License COMP10617900
-* Security+ - CompTIA License COMP001004759650
-* Ethical Hacking and Countermeasures (CEHv6) - EC-Council
-* ITIL V3 Foundation
-* Red Hat Certified System Administrator (RHCSA) - Red Hat License 605010315431388
-* MCTS: Windows Server 2008 Active Directory
-* VMware Certified Professional 3/4/5 - VMware License 24125
-* Linux Professional Institute Certification (LPIC1) - License x67heee8df (EXPIRED)
-* Cisco Certified Network Associate (CCNA) - License CSCO10432786 2006 (EXPIRED)
+- Designed and integrated VMware virtualization solutions for the Air Force (CITS 35), rolling out first large-scale deployment across multiple commands.  
+- Conducted network vulnerability assessments as part of the Air Force 92nd Aggressor Squadron, identifying and mitigating enterprise-level security threats.  
+- Provided strategic solutions for vulnerability mitigation and refined processes for continuous improvement.
 
 ---
 
-## Volunteering
+### **Network Security Analyst**  
+**MacAulay Brown**  
+<small>November 2006 – September 2007</small>
 
-* Rust Language: Release Team Volunteer  <small>*January 2018 ~ January 2020*</small>
+- Defended the Air Force Global Information Grid (GIG) against malicious threats via real-time network monitoring and intrusion detection.  
+- Collaborated with the Air Force Network Security Division (AFCERT) to respond rapidly to critical security incidents.
 
 ---
 
-### contact
+### **Information Protection Technician**  
+**United States Air Force (USAF)**  
+<small>October 2000 – October 2006</small>
 
-[joe@unicornclouds.com](mailto:joe@unicornclouds.com)
+- Led a team of eight, implementing boundary protection, vulnerability assessment, and intrusion detection for the largest Air Force communications squadron.  
+- Applied deep packet inspection with **tcpdump** and similar tools to troubleshoot low-level network issues.
 
-[jkordish][github] ![gh][]
+---
 
-[in/jkordish][linkedin] ![lnk][]
+## **Education**
+
+**Master of Science**, Information Assurance & Security (Network Defense)  
+<small>Capella University, 2015–2016 | Summa Cum Laude</small>
+
+**Bachelor of Science (BS)**, Psychology  
+<small>Capella University, 2012–2015 | Summa Cum Laude</small>
+
+---
+
+## **Certifications**
+
+- **CISSP** – ISC2 License #112897  
+- **Network+** – CompTIA License #COMP10617900  
+- **Security+** – CompTIA License #COMP001004759650  
+- **CEHv6** (Ethical Hacking and Countermeasures) – EC-Council  
+- **ITIL V3 Foundation**  
+- **RHCSA** (Red Hat Certified System Administrator) – #605010315431388  
+- **MCTS**: Windows Server 2008 Active Directory  
+- **VMware Certified Professional 3/4/5** – License #24125  
+- **Linux Professional Institute Certification (LPIC1)** – (Expired)  
+- **Cisco Certified Network Associate (CCNA)** – #CSCO10432786 (Expired)
+
+---
+
+## **Open Source / Volunteering**
+
+- **Rust Language Release Team Volunteer**  
+  <small>January 2018 – January 2020</small>  
+  - Assisted with testing, documentation, and community support for Rust releases.
+
 
 ---
 [avatar]: https://avatars.githubusercontent.com/u/30608?s=400&u=9981702b118cd607737f561e666b64b6ed9475c8&v=4
 [github]: https://github.com/jkordish
-[gh]: https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-20.png
+[gh]: https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-20.png
 [linkedin]: https://linkedin.com/in/jkordish
 [lnk]: https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-20.png
+[email]: https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Mail-20.png
+[mail]: mailto:joe@unicornclouds.com
