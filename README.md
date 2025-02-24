@@ -148,7 +148,7 @@ Seasoned Site Reliability Engineer (SRE) and **technology generalist** with exte
 
 
 ---
-[avatar]: https://avatars.githubusercontent.com/u/30608?s=400&u=9981702b118cd607737f561e666b64b6ed9475c8&v=4
+[avatar]: https://media.licdn.com/dms/image/v2/D5603AQHq94IYfFMMSw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727795345564?e=1746057600&v=beta&t=5e_A_not-e8zxUgQ1OTJLNUAVBj5nUf5xMlIDOCSxRI
 [github]: https://github.com/jkordish
 [gh]: https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-20.png
 [linkedin]: https://linkedin.com/in/jkordish
