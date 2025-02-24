@@ -15,29 +15,41 @@
 #### Principal, Site Reliability Engineer at Trellix <small>*January 2022  - current*</small>
 
 `ansible`, `teamcity`, `jenkins`, `rundeck`,`terraform`, `packer`, `consul`, `aws`, `kubernetes`
->
 > * Led technical and operations for SRE team. Guided and mentored junior SRE members.
 > * Concerned with creating systems that are stateless, immutable and disposable. Application deployments that exhibit characteristics of self-discovery, self-configuration and self-healing.
-> * devised/deployed/manage the continuous integration and application deployment pipeline (Ansible, Terraform, Packer and Consul)
 > * hands on experience in multi-tiered Amazon Web Services (AWS) infrastructure services and technologies
-> * architecture of the Analytics Big Data platform for ETL processing. (DataPipeline/EMR/Lambda)
-> * incorporated serverless practices through multiple implementations of the AWS Lambda service
-> * worked with container based technologies such as Docker and its clustering counterpart Swarm.
-> * develop operational documentation, build documents, run/play books related to operational support of the product and supporting infrastructure
-> * migrating and modernizing architecture to kubernetes (AWS EKS)
+> * Led the redesigned, simplified, implented our AWS EKS deployment system.
 
 ---
 
-#### Senior Site Reliability Engineer at FireEye <small>*January 2014 - December 2021*</small>
+#### Principal, Site Reliability Engineer at FireEye <small>*January 2021 - December 2021*</small>
 
-**FireEye Products sold off and merged with McAfee becoming Trellix**
+<small>(**FireEye Products sold off and merged with McAfee becoming Trellix**)</small>
+---
+
+#### Senior Site Reliability Engineer at FireEye <small>*January 2018 - January 2021*</small>
+
+> * Incorporated serverless practices through multiple implementations of the AWS Lambda service
+> * Migrated legacy systems to AWS EKS
+> * Managed multiple AWS EKS clusters
+
+---
+
+#### Site Reliability Engineer at FireEye <small>*January 2014 - January 2018*</small>
+
+> * Redesigned, implemented, and oversaw the continuous integration and application deployment pipeline utilizing Ansible, Terraform, Packer, and Consul.
+> * Architecture of the Big Data Analytics Platform for ETL Processing: DataPipeline, EMR, and Lambda.
+> * develop operational documentation, build documents, run/play books related to operational support of the product and supporting infrastructure
 
 ---
 
 #### Site Reliability Engineer at Mandiant <small>*July 2013 - December 2013*</small>
 
-**acquired by FireEye**
+> * Developed and implemented entire build system using TeamCity
+> * Transformed cumbersome deployment scripts from Bash shell to Ansible for enhanced efficiency.
+> * incorporated serverless practices through multiple implementations of the AWS Lambda service
 
+<small>(**acquired by FireEye**)</small>
 ---
 
 #### Senior Technologist at Trans-Tel Central <small>*April 2012 - July 2013*</small>
