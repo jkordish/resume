@@ -46,8 +46,9 @@ Seasoned Site Reliability Engineer (SRE) and **technology generalist** with exte
 <small>January 2018 – January 2021</small>
 
 - Championed serverless architecture with multiple **AWS Lambda** implementations, reducing operational overhead.  
-- Migrated on-prem and legacy systems to **AWS EKS**, cutting deployment times significantly.  
+- Migrated legacy systems to **AWS EKS**, cutting deployment times significantly.  
 - Managed multiple AWS EKS clusters, ensuring robust security and compliance for mission-critical services.
+- Deployed AWS Lambda functions to offload and simplify various operational tasks.
 
 #### Site Reliability Engineer  
 **FireEye**  
@@ -64,7 +65,6 @@ Seasoned Site Reliability Engineer (SRE) and **technology generalist** with exte
 
 - Built and optimized a **TeamCity**-based build system, drastically reducing release cycles.  
 - Converted complex Bash deployment scripts into **Ansible** playbooks, improving reliability and reducing errors.  
-- Deployed AWS Lambda functions to offload and simplify various operational tasks.
 
 ---
 
