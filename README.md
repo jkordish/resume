@@ -140,28 +140,6 @@ Multiple roles depending on compact contract.
 
 * Rust Language: Release Team Volunteer  <small>*January 2018 ~ January 2020*</small>
 
-___
-
-## Open Source
-
-**public github lacking as I work 99% in with our internal GitHub Enterprise**
-
-#### [s3post](https://github.com/jkordish/s3post.rs)
-
-Take logs from stdin then compress and send to S3 <sub>**rust**</sub>
-
-#### [copy-ami-tags](https://github.com/jkordish/copy-ami-tags.rs)
-
-Take [Packer](https://www.packer.io) generated manifest.json and copy the AMI tags to other accounts <sub>**rust**</sub>
-
-#### [feretto](https://github.com/jkordish/feretto.rs)
-
-generate aws sns notifications via strings found in log sources <sub>**rust**</sub>
-
-#### [Shouji](https://github.com/jkordish/shouji)
-
-interface for consul <sub>**rust**</sub>
-
 ---
 
 ### contact
