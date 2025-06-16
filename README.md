@@ -6,19 +6,19 @@
 
 ## **Summary**
 
-Seasoned Site Reliability Engineer (SRE) and **technology generalist** with extensive experience designing and automating large-scale systems. Skilled in **DevOps, cloud infrastructure, and security**; adept at rapidly learning new technologies to solve complex problems. **AWS-focused** with expertise in designing immutable, self-healing systems using container orchestration platforms (Kubernetes/EKS). A proven track record leading technical teams through mergers/acquisitions, ensuring continuity and innovation. Known for resourcefulness, strong mentoring, and a collaborative, can-do attitude.
+Principal Site Reliability Engineer with extensive experience ensuring reliability, scalability, and cost-efficiency for cloud-native infrastructures. Expert in Kubernetes, AWS, Terraform, GitOps, observability, and resilience engineering. Demonstrated leadership in mentoring technical teams and advancing best practices for observability, automation, and compliance, including FedRAMP.
 
 ---
 
 ## **Core Skills & Technologies**
 
-- **Cloud & Orchestration:** AWS (EKS, Lambda, EC2, S3, etc.), OpenStack
-- **Automation & Configuration Management:** Ansible, Terraform, Packer, Rundeck, Jenkins, TeamCity
-- **Containerization:** Docker, Kubernetes (EKS), Helm, Consul
-- **Languages:** PowerShell, Shell scripting, Node.js, Python, Go, Rust
-- **CI/CD & Pipelines:** Jenkins, TeamCity, GitLab CI, AWS CodePipeline
-- **Security & Compliance:** CISSP, PCI-DSS, Vulnerability Assessments, Intrusion Detection
-- **Other:** VMware ESX, Linux Administration (RHCSA), Networking (Cisco/CCNA), NetApp
+- **Cloud & Orchestration:** AWS (EKS, Lambda, EC2, S3, RDS Serverless)
+- **Automation & Configuration Management:** Terraform, Ansible, Helm, Packer, GitHub Actions
+- **Containerization:** Kubernetes, Docker, Karpenter
+- **Languages:** Rust, Python, Go, Shell scripting
+- **CI/CD & GitOps:** GitHub Actions
+- **Observability & Monitoring:** Prometheus, Grafana, CloudWatch, Container Insights, Fluent Bit, New Relic
+- **Security & Compliance:** CISSP, FedRAMP, PCI-DSS, SOC 2, Vulnerability Assessments
 
 ---
 
@@ -28,10 +28,17 @@ Seasoned Site Reliability Engineer (SRE) and **technology generalist** with exte
 **Trellix** (formerly Mandiant → FireEye → McAfee)
 <small>January 2022 – Present</small>
 
-- Led technical direction and day-to-day operations for the SRE team, mentoring junior members.
-- Designed and implemented **AWS EKS** deployment systems to ensure high availability, scalability, and reduced operational overhead.
-- Pioneered stateless, **immutable infrastructure** approaches that improved reliability and recovery.
-- Drove automation with **Terraform**, **Packer**, and **Consul**, emphasizing self-discovery and self-healing at scale.
+- Led strategic design of multi-region Kubernetes (AWS EKS) infrastructure, leveraging Karpenter and spot instances to optimize cost, scalability, and resilience.
+- Developed and implemented a multi-cluster Kubernetes strategy across multiple AWS regions supporting IPv6, enhancing global service resilience.
+- Applied chaos and resilience engineering practices, focusing on automated scaling and robust handling of spot instance terminations to ensure high availability and cost efficiency.
+- Optimized CI/CD pipelines with GitHub Actions, Helm-based GitOps workflows, and Terraform-driven Infrastructure as Code, enabling rapid and reliable deployments.
+- Implemented robust autoscaling strategies using Horizontal Pod Autoscaler (HPA) and Vertical Pod Autoscaler (VPA) to precisely allocate resources, minimizing over-provisioning.
+- Championed adoption of serverless-first approaches, including AWS Lambda and RDS Serverless, significantly reducing operational costs and enhancing infrastructure elasticity.
+- Fostered observability practices through actionable Service Level Objectives (SLOs), advanced monitoring, and alerting strategies using Prometheus, Grafana and CloudWatch.
+- Drove automated testing (unit, integration, load, chaos) throughout the deployment lifecycle, improving reliability and predictability of production releases.
+- Mentored senior and junior engineers, elevating organizational standards for reliability, automation, and engineering excellence.
+- Developed and deployed numerous SRE-related CLI tools and AWS Lambda functions using Rust, significantly improving operational tooling and automation.
+- Supported and contributed to achieving FedRAMP compliance, enhancing infrastructure security and governance practices.
 
 #### Principal Site Reliability Engineer
 **FireEye**
@@ -72,7 +79,6 @@ Seasoned Site Reliability Engineer (SRE) and **technology generalist** with exte
 **Trans-Tel Central**
 <small>April 2012 – July 2013</small>
 
-- Rolled out an **OpenStack**-based multi-tenant operational network, managing storage, virtualization, and networking end to end.
 - Spearheaded **PCI** assessments business, obtaining **PCI-ASV** certification and ensuring compliance for diverse clients.
 
 ---
